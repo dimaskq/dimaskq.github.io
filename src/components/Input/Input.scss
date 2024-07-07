@@ -1,0 +1,17 @@
+.journal-form__input {
+    background-color: rgba(175, 157, 157, 0.3);
+    color: #fff;
+}
+
+.joutnal-form__input_title {
+    border: none;
+    background: none;
+    font-size: 1.5rem;
+    font-weight: 600;
+    width: 100%;
+    border-bottom: 1px solid #424242;
+}
+
+.invalid{
+    box-shadow: 0px -2px 5px 0px rgba(255, 0, 0, 0.5)
+}

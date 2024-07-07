@@ -1,0 +1,10 @@
+.header{
+    width: 1280px;
+    margin: 10px auto;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.header__container{
+    width: 62%;
+}
